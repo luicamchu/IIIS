@@ -1,0 +1,5 @@
+git config --global user.name luicamchu
+git config --global user.email luicamchu@alum.us.es
+
+git config --global user.name luicamchu 
+git config --global user.email luicamchu@alum.us.es
